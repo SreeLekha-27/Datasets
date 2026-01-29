@@ -1,0 +1,31 @@
+student_id,course,progress,score,status
+S01,Python,80.0,85.0,Completed
+S02,SQL,60.0,70.0,In Progress
+S03,Excel,,65.0,In Progress
+S04,Python,90.0,,Completed
+S05,SQL,70.0,75.0,Completed
+S06,Python,50.0,60.0,Completed
+S07,SQL,,55.0,In Progress
+S08,Excel,85.0,,In Progress
+S09,Python,40.0,45.0,Completed
+S10,SQL,95.0,90.0,Completed
+S11,Python,80.0,85.0,Completed
+S12,SQL,60.0,70.0,In Progress
+S13,Excel,,65.0,In Progress
+S14,Python,90.0,,Completed
+S15,SQL,70.0,75.0,Completed
+S16,Python,50.0,60.0,Completed
+S17,SQL,,55.0,In Progress
+S18,Excel,85.0,,In Progress
+S19,Python,40.0,45.0,Completed
+S20,SQL,95.0,90.0,Completed
+S21,Python,80.0,85.0,Completed
+S22,SQL,60.0,70.0,In Progress
+S23,Excel,,65.0,In Progress
+S24,Python,90.0,,Completed
+S25,SQL,70.0,75.0,Completed
+S26,Python,50.0,60.0,Completed
+S27,SQL,,55.0,In Progress
+S28,Excel,85.0,,In Progress
+S29,Python,40.0,45.0,Completed
+S30,SQL,95.0,90.0,Completed
